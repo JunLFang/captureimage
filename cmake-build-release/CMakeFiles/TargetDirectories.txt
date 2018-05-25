@@ -1,0 +1,3 @@
+/home/tony_jun/MYNTimagecapture/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/tony_jun/MYNTimagecapture/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/tony_jun/MYNTimagecapture/cmake-build-release/CMakeFiles/main.dir
